@@ -9,6 +9,8 @@ public abstract class Shape {
 
     private int y;
 
+    private String colour="red";
+
     public void Shape(){
 
         x = 0;
