@@ -1,4 +1,4 @@
-public void Star extends Shape {
+public void Star extends Shape{
     
     private int sidelength;
 
