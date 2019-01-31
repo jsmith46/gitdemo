@@ -9,10 +9,10 @@ public abstract class Shape {
 
     private int y;
 
-    private string color;
+    private tring color;
 
     public void Shape(){
-
+        color = black;
         x = 0;
         y = 0;
 
