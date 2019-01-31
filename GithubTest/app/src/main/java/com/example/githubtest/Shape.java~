@@ -9,8 +9,6 @@ public abstract class Shape {
 
     private int y;
 
-    private int z;
-
     public void Shape(){
 
         x = 0;
