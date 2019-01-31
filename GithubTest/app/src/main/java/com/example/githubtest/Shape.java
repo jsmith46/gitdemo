@@ -10,11 +10,14 @@ public abstract class Shape {
     private int y;
     
     private int z;
+    
+    private String color;
 
     public void Shape(){
 
         x = 0;
         y = 0;
+        color = red;
 
     }
 
