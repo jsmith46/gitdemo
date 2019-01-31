@@ -8,6 +8,10 @@ public abstract class Shape {
     private int  x;
 
     private int y;
+    
+    private int z;
+    
+    private String color;
 
     private String colour="red";
 
@@ -15,6 +19,7 @@ public abstract class Shape {
 
         x = 0;
         y = 0;
+        color = red;
 
     }
 
