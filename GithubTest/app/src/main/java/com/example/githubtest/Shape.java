@@ -9,13 +9,17 @@ public abstract class Shape {
 
     private int y;
     
-    private String colour;
+    private int z;
+    
+    private String color;
 
     public void Shape(){
 
         x = 0;
         y = 0;
-	colour = purple;
+	color = purple;
+
+
 
     }
 
