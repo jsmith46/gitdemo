@@ -8,6 +8,10 @@ public abstract class Shape {
     private int  x;
 
     private int y;
+    
+    private int z;
+	    
+    private String color;
 
     private String color;
 
@@ -15,8 +19,15 @@ public abstract class Shape {
 
         x = 0;
         y = 0;
-        color = blue;
-
+        z = 0;
+      
+	    color = "white";
+    }
+    public void Shape(int x, int y, int z, String color){
+        this.x = x;
+        this.y = y;
+        this.z = z;
+        this.color = color;
     }
 
     public void setCoords(int a, int b){
