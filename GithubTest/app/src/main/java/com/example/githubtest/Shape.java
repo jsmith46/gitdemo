@@ -10,9 +10,7 @@ public abstract class Shape {
     private int y;
     
     private int z;
-	
-    private String willDelete;
-    
+	    
     private String color;
 
     public void Shape(){
