@@ -13,11 +13,14 @@ public abstract class Shape {
 	    
     private String color;
 
+    private String color;
+
     public void Shape(){
 
         x = 0;
         y = 0;
         z = 0;
+      
 	    color = "white";
     }
     public void Shape(int x, int y, int z, String color){
