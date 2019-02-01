@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heart.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Heart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/githubtest/Heart.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -48,10 +48,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/githubtest/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state />
+            <state relative-caret-position="150">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -68,6 +70,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/example/githubtest/Heart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/githubtest/Shape.java" />
       </list>
     </option>
   </component>
@@ -350,15 +353,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/githubtest/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/githubtest/Heart.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/githubtest/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
