@@ -6,7 +6,7 @@ package com.example.githubtest;
 public abstract class Triangle extends Shape {
 	private String color;
 	private int sideLength;
-	private void Shape(){
+	private void Triangle(){
 		color = black;
 	}
 	public getSideLength(){
