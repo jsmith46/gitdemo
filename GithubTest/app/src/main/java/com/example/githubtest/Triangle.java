@@ -4,11 +4,15 @@ package com.example.githubtest;
  */
 
 public abstract class Triangle extends Shape {
+	private String color;
 	private int sideLength;
+	private void Triangle(){
+		color = black;
+	}
 	public getSideLength(){
 		return sideLength;
 	}
-    	public setSideLength(int a){
+    public setSideLength(int a){
 		sideLength = a;
 	}
 }
