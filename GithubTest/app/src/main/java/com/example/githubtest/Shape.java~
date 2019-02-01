@@ -9,7 +9,7 @@ public abstract class Shape {
 
     private int y;
 
-    private tring color;
+    private String color;
 
     public void Shape(){
         color = black;
